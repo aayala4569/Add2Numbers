@@ -13,3 +13,18 @@
 /Users/Angelica/Documents/Night Class Lectures/ADD2Numbers/Assignments/Add2Numbers/obj/Debug/net6.0/Add2Numbers.pdb
 /Users/Angelica/Documents/Night Class Lectures/ADD2Numbers/Assignments/Add2Numbers/obj/Debug/net6.0/Add2Numbers.genruntimeconfig.cache
 /Users/Angelica/Documents/Night Class Lectures/ADD2Numbers/Assignments/Add2Numbers/obj/Debug/net6.0/ref/Add2Numbers.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\bin\Debug\net6.0\Add2Numbers.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\bin\Debug\net6.0\Add2Numbers.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\bin\Debug\net6.0\Add2Numbers.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\bin\Debug\net6.0\Add2Numbers.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\bin\Debug\net6.0\Add2Numbers.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\refint\Add2Numbers.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\Add2Numbers.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Add2numbers\Add2Numbers\obj\Debug\net6.0\ref\Add2Numbers.dll

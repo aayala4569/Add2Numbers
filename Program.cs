@@ -8,6 +8,8 @@
 //Iinitialize another variable and convert input to interger
 //Result will be the total Interprelated
 
+//Peer reviewed by Zac Rice
+//Functions well and does what it is suppose to
 
 Console.WriteLine("Enter a number");
 
@@ -17,4 +19,4 @@ Console.WriteLine("Enter a second number");
 
 int number2 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine($"your answer is{number1 + number2}");
+Console.WriteLine($"your answer is {number1 + number2}"); 
